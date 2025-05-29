@@ -1,0 +1,26 @@
+{
+  "blogApp": {
+    "mode": {
+      "home": {
+        "title": "Modes",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Mode",
+        "createOrEditLabel": "Créer ou éditer un Mode",
+        "notFound": "Aucun Mode trouvé"
+      },
+      "created": "Un nouveau Mode a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Mode avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Mode avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Mode {{ id }} ?"
+      },
+      "detail": {
+        "title": "Mode"
+      },
+      "id": "ID",
+      "name": "Name",
+      "handle": "Handle",
+      "user": "User"
+    }
+  }
+}
